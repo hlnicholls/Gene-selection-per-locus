@@ -46,7 +46,6 @@ Example:
 ## To Review:<br />
 - Any and all feedback welcome<br />
 
-<img src="https://i.imgur.com/K0PF5ni.png" width="500">
 
 ```
 > sessionInfo()
